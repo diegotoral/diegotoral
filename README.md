@@ -69,7 +69,10 @@ I once made a [small contribution](https://github.com/rails/rails/pull/42030) to
 
 This mantra guides my approach to coding and life. I believe in continuous improvement, always striving to make things better, more efficient, and more elegant. It's not about reaching an end goal, but about the journey of constant growth and refinement. Whether it's refactoring code, learning new technologies, or enhancing developer experiences, I'm always moving in the direction of excellence.
 
-###
+<h3 align="left">👨‍👩‍👧‍👦 Life Beyond Code</h3>
+
+When I'm not immersed in the world of Ruby and Rails, I'm navigating the exciting adventure of parenting four amazing kids. It's like managing a complex project with unpredictable sprints, constant refactoring, and the most rewarding deployments you can imagine! Balancing family life with my passion for coding has taught me invaluable lessons in time management, patience, and the importance of continuous learning - skills that enhance both my personal and professional life.
+
 
 <h3 align="left">📊 My stats</h3>
 
